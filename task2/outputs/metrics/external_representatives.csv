@@ -1,0 +1,3 @@
+train_mse_loss,train_rmse,validation_mse_loss,validation_rmse,validation_mae,validation_smape,best_epoch,parameters,training_seconds,name,moving_avg,use_external,checkpoint,seed
+1.0391893062255948,92.90331211046302,0.9356323161841312,88.15287017822266,66.50181579589844,78.28231048583984,3,41921,123.0677491999977,target_only_seed_2,13,False,checkpoints\target_only_seed_2.pt,2
+0.6603136071775787,74.05578439875048,0.4702680652394836,61.60527038574219,45.05000305175781,66.779052734375,1,42561,126.47419329999957,external_width_13_seed_0,13,True,checkpoints\external_width_13_seed_0.pt,0

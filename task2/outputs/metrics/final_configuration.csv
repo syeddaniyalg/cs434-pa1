@@ -1,0 +1,2 @@
+input_length,label_length,pred_length,external_dim,output_dim,d_model,n_heads,encoder_layers,decoder_layers,d_ff,moving_avg,delay_factor,dropout,activation,batch_size,learning_rate,max_epochs,min_delta,gradient_clip,training_stride,use_external,training_epochs,parameters,training_seconds
+672,168,168,10,1,32,4,2,1,128,13,2.0,0.1,gelu,64,0.001,3,0.0001,1.0,1,True,3,42561,36.71103349999976
